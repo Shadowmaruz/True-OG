@@ -1,0 +1,24 @@
+;ATTENTION! /ADDONS/ulx/data/ulx/<this file> is a DEFAULT file. DO NOT EDIT THE /ADDONS/ULX/DATA/ULX FOLDER FILE!!!
+; Instead, edit the version in <garrysmod root>/data/ulx/ if it exists. If it doesn't, copy this file to <gmod root>/data/ulx/ to create it.
+; Add gimp says in this file, one per line.
+; Any line starting with a ';' is a comment
+
+I'm a llama.
+How do you fly?
+baaaaaaaaaah.
+Llama power!
+What's that gun to move stuff?
+Mitt Romney for president!
+MattTheEMP ROCKS
+wtf is half-life?
+How do you turn on aimbot?
+I AM IRONMAN
+Banannas look like penises
+Once you go black you never go back
+#CUTFORMITT
+sv_cheats 1
+THE GAME
+Thug Aim
+360 no scope mofo
+Journey's a dick
+VLAD FOR WORLD DOMINATION

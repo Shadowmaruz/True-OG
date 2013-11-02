@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models\ninja\vaas\VBoot_C"
+"$bumpmap" "models\ninja\vaas\VBoot_n"
+
+	"$phong" "1"
+//	"$phongexponenttexture" "models\ninja/blackops/woods/c_usa_marine_barnes_head_s"
+	"$phongexponent" "5"
+	"$phongboost"	".7"
+	"$phongfresnelranges"	"[.13 1 48]"
+
+"$rimlight" "1"									
+"$rimlightexponent" "12"								
+"$rimlightboost" "0,5"
+	"$detail" "models\ninja/vaas\dt_leather"
+	"$detailscale" 5.283
+	"$detailblendfactor" .65
+	"$detailblendmode" 0
+}
+

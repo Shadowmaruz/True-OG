@@ -1,0 +1,2418 @@
+"STEAM_0:0:59370262"	
+{
+	"reason"	"DONT RDM FAGGOT"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377208842"
+	"name"	"sewodoag"
+}
+"STEAM_0:0:47610077"	
+{
+	"reason"	"gtfo"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1379202747"
+	"name"	"[AVoGG] darkblade9988"
+}
+"STEAM_0:0:48707607"	
+{
+	"unban"	"0"
+	"time"	"1376794175"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:41442639"	
+{
+	"reason"	"impersonating the owner"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1379462057"
+	"name"	"Matt and Mitt"
+}
+"STEAM_0:0:19144256"	
+{
+	"unban"	"0"
+	"time"	"1375032124"
+	"reason"	""
+	"admin"	"(Console)"
+}
+"STEAM_0:1:63252476"	
+{
+	"unban"	"0"
+	"time"	"1376707821"
+	"reason"	"your bad"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:37872435"	
+{
+	"unban"	"0"
+	"time"	"1379898815"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:62113284"	
+{
+	"unban"	"0"
+	"time"	"1376521876"
+	"reason"	"Enough to make my system blow Welcome to the new age, to the new age Welcome to the new age, to the new age Whoa, whoa, I'm radioactive, radioactive Whoa, whoa, I'm radioactive, radioactive(enough to piss me off, welcome to the age were rdming is not taken, your radioactive which means u caught the retardness of the rdmers)(rdm and leave)"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:44965381"	
+{
+	"unban"	"0"
+	"time"	"1376432821"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:38333528"	
+{
+	"unban"	"0"
+	"time"	"1375390122"
+	"reason"	"rdm bro whats with the leaving"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:32884459"	
+{
+	"reason"	"ghosting mang"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1378146485"
+	"name"	"angelslayer"
+}
+"STEAM_0:1:50497528"	
+{
+	"unban"	"0"
+	"time"	"1374935250"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Jamiebane(STEAM_0:0:47261713)"
+}
+"STEAM_0:0:39970555"	
+{
+	"unban"	"0"
+	"time"	"1375136507"
+	"reason"	"attempted rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:38014245"	
+{
+	"unban"	"0"
+	"time"	"1375136262"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Ender_Dog A.K.A Pac(STEAM_0:1:68929708)"
+}
+"STEAM_0:1:57339771"	
+{
+	"reason"	"RDM and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+	"unban"	"0"
+	"time"	"1375134783"
+	"name"	"Vein Cane94"
+}
+"STEAM_0:0:66428149"	
+{
+	"unban"	"0"
+	"time"	"1379901202"
+	"reason"	"MOTHER FUCKING CUNT NUGGET MOTHER FUCKING RACIST MOFO"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:57727525"	
+{
+	"unban"	"0"
+	"time"	"1376440720"
+	"reason"	"hommie G u got no swag get out of my hood dog im a thug(rdm and leave)"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:55987995"	
+{
+	"unban"	"0"
+	"time"	"1374855358"
+	"reason"	"yeah, i told you to gtfo kid"
+	"admin"	"[True-OG]Jamiebane(STEAM_0:0:47261713)"
+}
+"STEAM_0:0:56398950"	
+{
+	"unban"	"0"
+	"time"	"1377104361"
+	"reason"	"rdm and leave"
+	"admin"	"God of the True-OG's(STEAM_0:1:68929708)"
+}
+"STEAM_0:0:55581226"	
+{
+	"unban"	"0"
+	"time"	"1378857579"
+	"reason"	""
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:47761683"	
+{
+	"reason"	"bye bitch rdmer"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1383094376"
+	"name"	"oreobaker"
+}
+"STEAM_0:0:72531651"	
+{
+	"reason"	"Fuck you Dont rdm the owner on his t round you cunt"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377997665"
+	"name"	"MrFartingPlatypus"
+}
+"STEAM_0:0:50170466"	
+{
+	"unban"	"0"
+	"time"	"1379716685"
+	"reason"	"Your a mother fucker, your mom is a mother fucker, your borther is a mother fucker, and your dad was raped my your mom. Oh yeah and mass RDM"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:40898251"	
+{
+	"unban"	"0"
+	"time"	"1375566621"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:56586651"	
+{
+	"reason"	"No, fuck you my good sir"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1378673108"
+	"name"	"SilentAssasin"
+}
+"STEAM_0:1:54815583"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1375666714"
+	"name"	"RaccoDupont"
+}
+"STEAM_0:1:52892597"	
+{
+	"reason"	"Hey here's the thing. There's a full server, and I don't like you. Fuck off ()C"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1380069089"
+	"name"	"[AFGAY] My Chemical Bromance"
+}
+"STEAM_0:0:6809970"	
+{
+	"reason"	"rdm and leave"
+	"admin"	"Grigori Rasputin(STEAM_0:0:64474162)"
+	"unban"	"0"
+	"time"	"1376440478"
+	"name"	"Rectal Thermometer"
+}
+"STEAM_0:1:50077891"	
+{
+	"unban"	"0"
+	"time"	"1383177791"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Jamiebane(STEAM_0:0:47261713)"
+}
+"STEAM_0:0:802719"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1374868711"
+	"name"	"ACTIONPANTS"
+}
+"STEAM_0:0:70826309"	
+{
+	"reason"	"rdming shit"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1379784179"
+	"name"	"Doctor Football"
+}
+"STEAM_0:0:70396868"	
+{
+	"unban"	"0"
+	"time"	"1376846621"
+	"reason"	"rdm and leave"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:60780257"	
+{
+	"unban"	"0"
+	"time"	"1378323259"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:52660683"	
+{
+	"unban"	"0"
+	"time"	"1375567301"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:50827991"	
+{
+	"reason"	"RDM and troll"
+	"admin"	"[uA.A] Shadow(STEAM_0:1:47635141)"
+	"unban"	"0"
+	"time"	"1380084159"
+	"name"	"Jello"
+}
+"STEAM_0:0:63794070"	
+{
+	"unban"	"0"
+	"time"	"1378324814"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:65527594"	
+{
+	"unban"	"0"
+	"time"	"1375136596"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:32734082"	
+{
+	"modified_time"	"1379548533"
+	"reason"	"Fuck you you fucking fuck of a fuck"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1379548472"
+	"modified_admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:60126383"	
+{
+	"unban"	"0"
+	"time"	"1379266665"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:43080706"	
+{
+	"unban"	"0"
+	"time"	"1377288895"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Ender_Dog(STEAM_0:1:68929708)"
+}
+"STEAM_0:1:565736"	
+{
+	"unban"	"0"
+	"time"	"1381878348"
+	"reason"	"3 Times just to be safe"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:66183991"	
+{
+	"unban"	"0"
+	"time"	"1377571679"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:71246892"	
+{
+	"unban"	"0"
+	"time"	"1376793874"
+	"reason"	"u stupd kid and rdm"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:52444927"	
+{
+	"unban"	"0"
+	"time"	"1376277036"
+	"reason"	"I don't like your face"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:54969618"	
+{
+	"unban"	"0"
+	"time"	"1377044411"
+	"reason"	"Fuck you you fucking fuck of a fuck"
+	"admin"	"Harry Potter(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:59759643"	
+{
+	"unban"	"0"
+	"time"	"1375469980"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:62649618"	
+{
+	"unban"	"0"
+	"time"	"1378323027"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:59593521"	
+{
+	"unban"	"0"
+	"time"	"1377292166"
+	"reason"	"was that ur fuck buddy that got ban so u joined him in the rdms?"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:4259068"	
+{
+	"unban"	"0"
+	"time"	"1377655660"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:51849647"	
+{
+	"modified_time"	"1375587707"
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1375587674"
+	"modified_admin"	"(Console)"
+}
+"STEAM_0:0:42301542"	
+{
+	"reason"	"YEAH CALL THE OWNER A IDIOT"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1375226764"
+	"name"	"qjmitchell"
+}
+"STEAM_0:0:29199919"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1374868772"
+	"name"	"TwillyFilly"
+}
+"STEAM_0:1:53995772"	
+{
+	"unban"	"0"
+	"time"	"1375116930"
+	"reason"	"RDM then leave. Have proof next time"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:45681988"	
+{
+	"reason"	"If your not gonna answer me, gtfo"
+	"admin"	"[True-OG]Jamiebane(STEAM_0:0:47261713)"
+	"unban"	"0"
+	"time"	"1375322279"
+	"name"	"EpicRye"
+}
+"STEAM_0:1:65167040"	
+{
+	"unban"	"0"
+	"time"	"1377308228"
+	"reason"	"I can float if I fucking want to. "
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:15814389"	
+{
+	"unban"	"0"
+	"time"	"1376355503"
+	"reason"	"RDM and leave oh yeah and Fuck you"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:66725352"	
+{
+	"unban"	"0"
+	"time"	"1377126590"
+	"reason"	"rdming queef"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:71140278"	
+{
+	"unban"	"0"
+	"time"	"1383095857"
+	"reason"	"rdm u fucking faggot eat shit"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:46365799"	
+{
+	"unban"	"0"
+	"time"	"1379876872"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:33118670"	
+{
+	"reason"	"Fuck you"
+	"admin"	"Vladimir Putin(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1376710506"
+	"name"	"guestjam"
+}
+"STEAM_0:1:54126198"	
+{
+	"unban"	"0"
+	"time"	"1376432840"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:72885549"	
+{
+	"unban"	"0"
+	"time"	"1379288291"
+	"reason"	"just gtfo"
+	"admin"	"[True-OG]Jamiebane(STEAM_0:0:47261713)"
+}
+"STEAM_0:0:67654772"	
+{
+	"unban"	"0"
+	"time"	"1380320485"
+	"reason"	"Suck a dick you slut"
+	"admin"	"Demopan(STEAM_0:1:59015980)"
+}
+"STEAM_0:0:57209359"	
+{
+	"unban"	"0"
+	"time"	"1375488387"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:53099400"	
+{
+	"reason"	"impersonating the owner"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1379462068"
+	"name"	"Matt"
+}
+"STEAM_0:0:64731653"	
+{
+	"unban"	"0"
+	"time"	"1380396684"
+	"reason"	"rdm"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:47112157"	
+{
+	"unban"	"0"
+	"time"	"1376707284"
+	"reason"	"rdm and suck dick(and leave)"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:14596173"	
+{
+	"reason"	"get out of our house u rdming shit"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1379465891"
+	"name"	"hannah homicide"
+}
+"STEAM_0:0:72463093"	
+{
+	"unban"	"0"
+	"time"	"1378937370"
+	"reason"	"try to rdm and leave"
+	"admin"	"[True-og]Barrymyleghertz(STEAM_0:0:59871598)"
+}
+"STEAM_0:1:72022695"	
+{
+	"unban"	"0"
+	"time"	"1378422619"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:34876678"	
+{
+	"unban"	"0"
+	"time"	"1375408619"
+	"reason"	"attempted rdm and leave"
+	"admin"	"[Truest-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:66619585"	
+{
+	"reason"	"rdm"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1376182234"
+	"name"	"jokerrrr666"
+}
+"STEAM_0:0:52109014"	
+{
+	"modified_time"	"1378068964"
+	"reason"	"rdn and leave"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1378068952"
+	"modified_admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:1:66154824"	
+{
+	"unban"	"0"
+	"time"	"1377477345"
+	"reason"	"RDM'ing Ain't cool yo"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:38314490"	
+{
+	"unban"	"0"
+	"time"	"1375763948"
+	"reason"	"RDM and Leave"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:0:64094564"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1375042302"
+	"name"	"Kyle Laukala"
+}
+"STEAM_0:1:70191468"	
+{
+	"reason"	"reason"
+	"admin"	"[True-OG] Pestilence(STEAM_0:0:51627154)"
+	"unban"	"0"
+	"time"	"1380489379"
+	"name"	"Evenkeven"
+}
+"STEAM_0:0:61629985"	
+{
+	"modified_time"	"1378334491"
+	"reason"	"u know what fuck u mass rdming"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1378334487"
+	"name"	"samw_829"
+	"modified_admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:52813888"	
+{
+	"unban"	"0"
+	"time"	"1378348830"
+	"reason"	"RDM"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:0:7602098"	
+{
+	"unban"	"0"
+	"time"	"1380385839"
+	"reason"	"What ghost said ._."
+	"admin"	"Demopan(STEAM_0:1:59015980)"
+}
+"STEAM_0:1:55556598"	
+{
+	"unban"	"0"
+	"time"	"1379115094"
+	"name"	"|Touchy| Charmander"
+}
+"STEAM_0:0:41971323"	
+{
+	"unban"	"0"
+	"time"	"1376174773"
+	"reason"	"I don't like your face"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:497358"	
+{
+	"unban"	"0"
+	"time"	"1377306456"
+	"reason"	"attempted rdm and leave"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:52550143"	
+{
+	"unban"	"0"
+	"time"	"1375035803"
+	"reason"	"Whose the nigger now. Fuck off like your mom last night"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:53834715"	
+{
+	"unban"	"0"
+	"time"	"1377359512"
+	"reason"	"Ey yo partna i go hard in da paint dont mess wiff me son"
+	"admin"	"[True-OG]Ender_Dog(STEAM_0:1:68929708)"
+}
+"STEAM_0:0:42084008"	
+{
+	"modified_time"	"1378146545"
+	"reason"	"ghosting"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1378146461"
+	"name"	"Phontoron"
+	"modified_admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:51248725"	
+{
+	"unban"	"0"
+	"time"	"1374938838"
+	"reason"	"fuck you MR FRIED TACO"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:43003612"	
+{
+	"unban"	"0"
+	"time"	"1375057492"
+	"reason"	"rdm"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:5674481"	
+{
+	"unban"	"0"
+	"time"	"1378511572"
+	"reason"	"attempted rdm and leave"
+	"admin"	"[Spooky-True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:33554445"	
+{
+	"unban"	"0"
+	"time"	"1377101773"
+	"reason"	"rdming t buddy and leaving"
+	"admin"	"God of the True-OG's(STEAM_0:1:68929708)"
+}
+"STEAM_0:1:56829735"	
+{
+	"unban"	"0"
+	"time"	"1380397534"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:25231386"	
+{
+	"reason"	"I'm the owner you idiot"
+	"admin"	"Harry Potter(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1377202540"
+	"name"	"|VS| Nmaley12"
+}
+"STEAM_0:1:24969330"	
+{
+	"unban"	"0"
+	"time"	"1377023070"
+	"reason"	"Tired of yo bullshit son"
+	"admin"	"[True-OG]Makaveli(STEAM_0:1:68929708)"
+}
+"STEAM_0:1:56573876"	
+{
+	"modified_time"	"1381878413"
+	"reason"	"Fuck you you fucking fuck of a fuck"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1381878274"
+	"name"	"8bitgames"
+	"modified_admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:53384225"	
+{
+	"unban"	"0"
+	"time"	"1375488104"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:53413032"	
+{
+	"reason"	"gtfo"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1379456145"
+	"name"	"FirmHorseman"
+}
+"STEAM_0:0:54090133"	
+{
+	"reason"	""
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1379193953"
+	"name"	"Swag Zerker"
+}
+"STEAM_0:0:56009767"	
+{
+	"unban"	"0"
+	"time"	"1375749765"
+	"reason"	"RDM AND LEAVE"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:1:57631600"	
+{
+	"modified_time"	"1381187701"
+	"reason"	"Eat my dick"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1381187097"
+	"name"	"xXSuperNovaManXx"
+	"modified_admin"	"Demopan(STEAM_0:1:59015980)"
+}
+"STEAM_0:0:24557761"	
+{
+	"unban"	"0"
+	"time"	"1380246529"
+	"reason"	"RDM disrespect and being a 5 yr old"
+	"admin"	"[uA.A] Shadow(STEAM_0:1:47635141)"
+}
+"STEAM_0:1:72634713"	
+{
+	"reason"	"GHOSTING BITCH"
+	"admin"	"[Spooky-True-OG]Ghost(STEAM_0:0:64474162)"
+	"unban"	"0"
+	"time"	"1378245175"
+	"name"	"UBTrollinMe"
+}
+"STEAM_0:0:58805659"	
+{
+	"unban"	"0"
+	"time"	"1376522077"
+	"reason"	"little boy go rdm somewhere else"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:50776391"	
+{
+	"unban"	"0"
+	"time"	"1379468412"
+	"reason"	"RDM and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:41020780"	
+{
+	"unban"	"0"
+	"time"	"1379268985"
+	"reason"	""
+	"admin"	"(Console)"
+}
+"STEAM_0:0:51959805"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1374868633"
+	"name"	"gibbytastic"
+}
+"STEAM_0:1:46905784"	
+{
+	"reason"	""
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1378954635"
+	"name"	"Stegabro"
+}
+"STEAM_0:0:48464756"	
+{
+	"reason"	"FIX UR MIC U DUMB CUNT"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1376353950"
+	"name"	"potatos the Demopan"
+}
+"STEAM_0:1:57055704"	
+{
+	"unban"	"0"
+	"time"	"1377198487"
+	"reason"	"rdm and leave"
+	"admin"	"SeaNanners(STEAM_0:1:68929708)"
+}
+"STEAM_0:1:70555899"	
+{
+	"reason"	"GHOSTING"
+	"admin"	"[Spooky-True-OG]Ghost(STEAM_0:0:64474162)"
+	"unban"	"0"
+	"time"	"1378245181"
+	"name"	"Tetraful"
+}
+"STEAM_0:1:66829222"	
+{
+	"unban"	"0"
+	"time"	"1381627560"
+	"reason"	"You are a cunt nugget"
+	"admin"	"BioFrost(STEAM_0:0:57024116)"
+}
+"STEAM_0:0:61816263"	
+{
+	"unban"	"0"
+	"time"	"1375562909"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:53891537"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1374957462"
+	"name"	"Hyvaur"
+}
+"STEAM_0:1:73836297"	
+{
+	"unban"	"0"
+	"time"	"1380342262"
+	"reason"	"RDM and Left"
+	"admin"	"[uA.A] Shadow(STEAM_0:1:47635141)"
+}
+"STEAM_0:1:42714358"	
+{
+	"unban"	"0"
+	"time"	"1376793557"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:48119515"	
+{
+	"reason"	"yeah, i know you were ghosting with somebody/hacking"
+	"admin"	"[True-OG]Jamiebane(STEAM_0:0:47261713)"
+	"unban"	"0"
+	"time"	"1379288369"
+	"name"	"MrClone501st"
+}
+"STEAM_0:0:55288625"	
+{
+	"reason"	"i told u one more rdm and your gone"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1379783582"
+	"name"	"[NTG] Diet Coke"
+}
+"STEAM_0:0:47478136"	
+{
+	"unban"	"0"
+	"time"	"1375317075"
+	"reason"	"rdm and leave"
+	"admin"	"[Truest-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:39542364"	
+{
+	"reason"	"Disrespecting the owner"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377042578"
+	"name"	"Golden Voice"
+}
+"STEAM_0:1:34506493"	
+{
+	"reason"	"Fuck you Don't RDM the owner"
+	"admin"	"Vladimir Putin(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1376786140"
+	"name"	"Detective Big Tits"
+}
+"STEAM_0:0:40984338"	
+{
+	"unban"	"0"
+	"time"	"1378864508"
+	"reason"	"RDM and Left N00b"
+	"admin"	"[uA.A] Shadow(STEAM_0:1:47635141)"
+}
+"STEAM_0:1:35576191"	
+{
+	"unban"	"0"
+	"time"	"1381962036"
+	"reason"	"rdm and leave u cunt"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:3621268"	
+{
+	"unban"	"0"
+	"time"	"1377139313"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:523702"	
+{
+	"unban"	"0"
+	"time"	"1380321550"
+	"reason"	"rdm and leave BITCH"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:25016559"	
+{
+	"unban"	"0"
+	"time"	"1376966064"
+	"reason"	"RDM and Leave"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:0:69261829"	
+{
+	"reason"	"bye"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1379620686"
+	"name"	"joseph21212011"
+}
+"STEAM_0:0:17302437"	
+{
+	"reason"	"Funny part is, I'm not an admin I'm the fucking owner"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1375035589"
+	"name"	"Garry mod lol"
+}
+"STEAM_0:1:56697361"	
+{
+	"reason"	"Boo you Whore"
+	"admin"	"Vladimir Putin(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1376710511"
+	"name"	"Jolken Jenkins"
+}
+"STEAM_0:1:55634378"	
+{
+	"unban"	"0"
+	"time"	"1379877415"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:41584253"	
+{
+	"reason"	"Being a dick"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1379547214"
+	"name"	"InsomniacPancake"
+}
+"STEAM_0:0:53104860"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1377811531"
+	"name"	"cjdehling"
+}
+"STEAM_0:0:43077269"	
+{
+	"unban"	"0"
+	"time"	"1380226981"
+	"reason"	"Go play cod you slut"
+	"admin"	"Demopan(STEAM_0:1:59015980)"
+}
+"STEAM_0:0:67730166"	
+{
+	"reason"	"ghosting"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1376350883"
+	"name"	"Cenmlik"
+}
+"STEAM_0:1:41298287"	
+{
+	"unban"	"0"
+	"time"	"1376440687"
+	"reason"	"rdm and leave"
+	"admin"	"Grigori Rasputin(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:14718423"	
+{
+	"reason"	"reason"
+	"admin"	"RegistryError(STEAM_0:0:38882242)"
+	"unban"	"0"
+	"time"	"1380947334"
+	"name"	"Mueller That Cock Sucking Faggo"
+}
+"STEAM_0:1:6128506"	
+{
+	"unban"	"0"
+	"time"	"1377396978"
+	"reason"	"RDM and Leave"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:1:42983741"	
+{
+	"unban"	"0"
+	"time"	"1377032591"
+	"reason"	""
+	"admin"	"(Console)"
+}
+"STEAM_0:1:51684163"	
+{
+	"reason"	"u rdmed and left yesterday but i never got ur id so here u go "
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1379361214"
+	"name"	"Sir_Smiley"
+}
+"STEAM_0:0:68368468"	
+{
+	"unban"	"0"
+	"time"	"1380228865"
+	"reason"	"u one loves kill yourself rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:71743190"	
+{
+	"unban"	"0"
+	"time"	"1377221952"
+	"reason"	"RDM then leave"
+	"admin"	"Harry Potter(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:59846850"	
+{
+	"unban"	"0"
+	"time"	"1380226434"
+	"reason"	"Rdm and leave"
+	"admin"	"Demopan(STEAM_0:1:59015980)"
+}
+"STEAM_0:0:75164292"	
+{
+	"unban"	"0"
+	"time"	"1381792443"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:45648146"	
+{
+	"unban"	"0"
+	"time"	"1381879812"
+	"reason"	"RDMING BIATCH <Ghost3"
+	"admin"	"Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:53517"	
+{
+	"unban"	"0"
+	"time"	"1380410637"
+	"reason"	"Attempted rdm and leave BITCH <GHOST3"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:68151354"	
+{
+	"reason"	""
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1378610696"
+	"name"	"Uberhaxoreric"
+}
+"STEAM_0:0:4083"	
+{
+	"unban"	"0"
+	"time"	"1381980234"
+	"reason"	"Dont rdm and leave"
+	"admin"	"[True-OG] Pestilence(STEAM_0:0:51627154)"
+}
+"STEAM_0:1:63370835"	
+{
+	"unban"	"0"
+	"time"	"1378850196"
+	"reason"	"see u never(rdm and leave)"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:58451876"	
+{
+	"unban"	"0"
+	"time"	"1378503439"
+	"reason"	"RDM and Leave"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:0:4943418"	
+{
+	"unban"	"0"
+	"time"	"1379467811"
+	"reason"	"RDM AND LEAVE <3"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:41804465"	
+{
+	"unban"	"0"
+	"time"	"1379898739"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:67236658"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1377811504"
+	"name"	"Darth Paul"
+}
+"STEAM_0:1:71901636"	
+{
+	"unban"	"0"
+	"time"	"1380669954"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:47976308"	
+{
+	"unban"	"0"
+	"time"	"1379458096"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:65126946"	
+{
+	"unban"	"0"
+	"time"	"1376280212"
+	"reason"	"Goodjob RDM the owner DUMBASS"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:1:55320658"	
+{
+	"unban"	"0"
+	"time"	"1380660581"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:47291648"	
+{
+	"reason"	"RDM"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377233577"
+	"name"	"Artyom"
+}
+"STEAM_0:1:52822177"	
+{
+	"reason"	"bye"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1376350911"
+	"name"	"ZachBray"
+}
+"STEAM_0:1:24662279"	
+{
+	"reason"	"kill yoself plz"
+	"admin"	"[True-OG]Makaveli(STEAM_0:1:68929708)"
+	"unban"	"0"
+	"time"	"1377026628"
+	"name"	"[SG] [SG] Apex115 [TK]"
+}
+"STEAM_0:1:60137142"	
+{
+	"unban"	"0"
+	"time"	"1377389619"
+	"reason"	"Fuck you you fucking fuck of a fuck"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:55287565"	
+{
+	"unban"	"0"
+	"time"	"1376515049"
+	"reason"	"rdm and leave"
+	"admin"	"Grigori Rasputin(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:60744867"	
+{
+	"unban"	"0"
+	"time"	"1375410687"
+	"reason"	"rdm and leave"
+	"admin"	"[Truest-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:41394064"	
+{
+	"reason"	"bye fag"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1380332969"
+	"name"	"magic burrito"
+}
+"STEAM_0:1:55575538"	
+{
+	"unban"	"0"
+	"time"	"1374936440"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Jamiebane(STEAM_0:0:47261713)"
+}
+"STEAM_0:0:50002721"	
+{
+	"reason"	"RDM"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1378527034"
+	"name"	"aniken677"
+}
+"STEAM_0:0:19412536"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1375042508"
+	"name"	"Abcd1978"
+}
+"STEAM_0:1:43570614"	
+{
+	"unban"	"0"
+	"time"	"1377189761"
+	"reason"	"rdm and leave"
+	"admin"	"God of the True-OG's(STEAM_0:1:68929708)"
+}
+"STEAM_0:0:55802563"	
+{
+	"unban"	"0"
+	"time"	"1375127529"
+	"reason"	"RDM the leave"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:70416116"	
+{
+	"reason"	"Here's a hint, don't insult the fucking owner"
+	"admin"	"Harry Potter(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1377214372"
+	"name"	"tzinsjr"
+}
+"STEAM_0:1:21174674"	
+{
+	"unban"	"0"
+	"time"	"1376443739"
+	"reason"	"birds are gay"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:26674774"	
+{
+	"unban"	"0"
+	"time"	"1379538209"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:45067590"	
+{
+	"unban"	"0"
+	"time"	"1378857670"
+	"reason"	"rdm barry and leave"
+	"admin"	"[True-og]Barrymyleghertz(STEAM_0:0:59871598)"
+}
+"STEAM_0:1:40132805"	
+{
+	"unban"	"0"
+	"time"	"1375049555"
+	"reason"	"RDM AND LEAVE"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:0:60948804"	
+{
+	"modified_time"	"1381961952"
+	"reason"	"FUCK U. U FUCKING COCKING SUCKING SHIT. I HOPE U GET HIT BY A CAR AND DIE"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1381961839"
+	"modified_admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:27862699"	
+{
+	"modified_time"	"1377898226"
+	"reason"	"ur a dumb little kid(if u can even read this)"
+	"admin"	"[True-OG]Ender_Dog(STEAM_0:1:68929708)"
+	"unban"	"0"
+	"time"	"1377898192"
+	"modified_admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:40842749"	
+{
+	"reason"	"RDM"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1378350865"
+	"name"	"WaffleDino"
+}
+"STEAM_0:1:45613426"	
+{
+	"unban"	"0"
+	"time"	"1375052994"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:60940763"	
+{
+	"unban"	"0"
+	"time"	"1375466349"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:40255992"	
+{
+	"unban"	"0"
+	"time"	"1382566879"
+	"reason"	"You fucking, RDMing mother fucking ass hole. You can go fucking jack off in a corner because you're a giant dick. Oh yeah, and YO MAMA"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:23088438"	
+{
+	"unban"	"0"
+	"time"	"1383186183"
+	"reason"	"Getting  kicked then not coming back, I mean come on"
+	"admin"	"Mitthew RomtheEMP(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:48047092"	
+{
+	"modified_time"	"1375768301"
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1375768091"
+	"modified_admin"	"(Console)"
+}
+"STEAM_0:0:53646030"	
+{
+	"unban"	"0"
+	"time"	"1375740776"
+	"reason"	"Boo you Whore"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:51013219"	
+{
+	"unban"	"0"
+	"time"	"1381355248"
+	"reason"	"RDM AND LEAVE BIATCH <GHOST3"
+	"admin"	"Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:45986666"	
+{
+	"unban"	"0"
+	"time"	"1377922045"
+	"reason"	"RDM and DC NOT tolerated here"
+	"admin"	"[uA.A] Shadow(STEAM_0:1:47635141)"
+}
+"STEAM_0:0:48823467"	
+{
+	"unban"	"0"
+	"time"	"1375741543"
+	"reason"	"Fuck you ass hole"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:18948167"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1377472527"
+	"name"	"Dad"
+}
+"STEAM_0:0:25868387"	
+{
+	"reason"	"Disrespecting the owner"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377042569"
+	"name"	"Taco"
+}
+"STEAM_0:0:54666801"	
+{
+	"unban"	"0"
+	"time"	"1377892196"
+	"reason"	"llllllllllllllllllllllLick my penis pl0x"
+	"admin"	"[True-OG]Ender_Dog(STEAM_0:1:68929708)"
+}
+"STEAM_0:0:594103"	
+{
+	"unban"	"0"
+	"time"	"1379806838"
+	"reason"	"rdm and leave"
+	"admin"	"Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:27061727"	
+{
+	"reason"	"FUCK OFF YOU CHUBBY PIECE OF LLAMA"
+	"admin"	"Vladimir Putin(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1376358012"
+	"name"	"ChubbiestLlama"
+}
+"STEAM_0:1:60716241"	
+{
+	"reason"	"FUCK YOU BICH GET OUT"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377283088"
+	"name"	"DALTONTALLEY"
+}
+"STEAM_0:1:41167511"	
+{
+	"unban"	"0"
+	"time"	"1375221240"
+	"reason"	"attempted rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:46932478"	
+{
+	"unban"	"0"
+	"time"	"1375835474"
+	"reason"	"RDM AND LEAVE"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:1:25572027"	
+{
+	"unban"	"0"
+	"time"	"1376397868"
+	"reason"	""
+	"admin"	"(Console)"
+}
+"STEAM_0:0:48624404"	
+{
+	"unban"	"0"
+	"time"	"1375030372"
+	"reason"	""
+	"admin"	"(Console)"
+}
+"STEAM_0:1:53227035"	
+{
+	"reason"	"Dont Rdm Bitch fuck dick cunt"
+	"admin"	"[True-OG] Pestilence(STEAM_0:0:51627154)"
+	"unban"	"0"
+	"time"	"1380486756"
+	"name"	"ShyGuy"
+}
+"STEAM_0:0:57007386"	
+{
+	"unban"	"0"
+	"time"	"1382566783"
+	"reason"	"RDM and leave after abuse by our admins <3"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:28145806"	
+{
+	"reason"	"ghosting"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377233406"
+	"name"	"Pumba"
+}
+"STEAM_0:0:14878971"	
+{
+	"unban"	"0"
+	"time"	"1375316988"
+	"reason"	"rdm and leave"
+	"admin"	"[Truest-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:62472635"	
+{
+	"modified_time"	"1381019043"
+	"reason"	"Slut"
+	"admin"	"Demopan(STEAM_0:1:59015980)"
+	"unban"	"0"
+	"time"	"1381018930"
+	"modified_admin"	"Demopan(STEAM_0:1:59015980)"
+}
+"STEAM_0:1:67569910"	
+{
+	"reason"	"gtfo"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1377205642"
+	"name"	"rulingbryce"
+}
+"STEAM_0:0:69065891"	
+{
+	"reason"	"FAR TOO HORNY"
+	"admin"	"BioFrost(STEAM_0:0:57024116)"
+	"unban"	"0"
+	"time"	"1381447143"
+	"name"	"Horny_Buffalo"
+}
+"STEAM_0:0:35344657"	
+{
+	"unban"	"0"
+	"time"	"1383093646"
+	"reason"	"GO BLAZE"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:51672933"	
+{
+	"unban"	"0"
+	"time"	"1379264437"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:72768737"	
+{
+	"unban"	"0"
+	"time"	"1379029428"
+	"reason"	"no one rdms tunda but me"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:4799802"	
+{
+	"unban"	"0"
+	"time"	"1378676143"
+	"reason"	"rdm and leave"
+	"admin"	"[Spooky-True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:70592252"	
+{
+	"unban"	"0"
+	"time"	"1379030644"
+	"reason"	"u wasted so much time downloading our servers stuff and got to rdm one person and leave thats sad"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:60537262"	
+{
+	"reason"	"RDM a T, GTFO"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1379199602"
+	"name"	"The Dapper Gent"
+}
+"STEAM_0:1:41586230"	
+{
+	"unban"	"0"
+	"time"	"1382391883"
+	"reason"	"RDM and Leave"
+	"admin"	"[True-OG]Jamiebane(STEAM_0:0:47261713)"
+}
+"STEAM_0:1:63189005"	
+{
+	"reason"	"GTFO"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1378350942"
+	"name"	"dildosaurus"
+}
+"STEAM_0:0:65908329"	
+{
+	"unban"	"0"
+	"time"	"1380507539"
+	"reason"	"rdming little boy(and leave)"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:67723597"	
+{
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1377130937"
+	"name"	"DustyVeins"
+}
+"STEAM_0:1:46907314"	
+{
+	"reason"	"TOO HORNY"
+	"admin"	"BioFrost(STEAM_0:0:57024116)"
+	"unban"	"0"
+	"time"	"1381447125"
+	"name"	"Horny_Lobsta"
+}
+"STEAM_0:0:47894216"	
+{
+	"modified_time"	"1377478051"
+	"reason"	"rdm"
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1377472515"
+	"name"	"Mom"
+	"modified_admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:0:58225805"	
+{
+	"reason"	"Actually, fuck you, goodbye"
+	"admin"	"Harry Potter(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1377109640"
+	"name"	"The Heartless Noob"
+}
+"STEAM_0:1:738576"	
+{
+	"reason"	"RDM"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1378527026"
+	"name"	"www.ExtremePC.ca"
+}
+"STEAM_0:0:61750695"	
+{
+	"unban"	"0"
+	"time"	"1379268883"
+	"reason"	""
+	"admin"	"(Console)"
+}
+"STEAM_0:1:40959188"	
+{
+	"reason"	"RDM"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1378350874"
+	"name"	"Telepwn"
+}
+"STEAM_0:1:12947827"	
+{
+	"unban"	"0"
+	"time"	"1377837365"
+	"reason"	"RDM and Leave"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:0:32525086"	
+{
+	"unban"	"0"
+	"time"	"1375232771"
+	"reason"	"rdm and leave "
+	"admin"	"[True-OG]BarryBeardedHeadCrab(STEAM_0:0:59871598)"
+}
+"STEAM_0:0:57330324"	
+{
+	"reason"	"Don't RDM the owner fucker"
+	"admin"	"Harry Potter(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1377136464"
+	"name"	"CAPTAIN CANUCK"
+}
+"STEAM_0:0:76020"	
+{
+	"unban"	"0"
+	"time"	"1380385776"
+	"reason"	"RDM AND LEAVE BITCH <GHOST3"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:69237161"	
+{
+	"unban"	"0"
+	"time"	"1379281653"
+	"reason"	""
+	"admin"	"(Console)"
+}
+"STEAM_0:1:20214363"	
+{
+	"unban"	"0"
+	"time"	"1376432792"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:59622113"	
+{
+	"unban"	"0"
+	"time"	"1376792043"
+	"reason"	"fried chicken(rdm and leave)"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:24725761"	
+{
+	"reason"	"Suck a dick. im the owner ill do what i want."
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377042453"
+	"name"	"Swag Swag Like Caillou"
+}
+"STEAM_0:1:55062609"	
+{
+	"unban"	"0"
+	"time"	"1376710004"
+	"reason"	""
+	"admin"	"(Console)"
+}
+"STEAM_0:0:46286063"	
+{
+	"unban"	"0"
+	"time"	"1377552463"
+	"reason"	"Fuck you you fucking fuck of a fuck"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:63503713"	
+{
+	"reason"	"gtfo"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1379202741"
+	"name"	"TheApplesAreComing"
+}
+"STEAM_0:1:51817650"	
+{
+	"reason"	"You RDM'd your T buddy smart ass"
+	"admin"	"Vladimir Putin(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1376710453"
+	"name"	"So sad."
+}
+"STEAM_0:1:42801821"	
+{
+	"reason"	"rdming ur own t"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1380235946"
+	"name"	"nolanklutz"
+}
+"STEAM_0:1:32387462"	
+{
+	"reason"	"ghosting"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377233410"
+	"name"	"Wiffle Dopper"
+}
+"STEAM_0:0:46658221"	
+{
+	"reason"	""
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1378168153"
+	"name"	"a Fart"
+}
+"STEAM_0:1:69136462"	
+{
+	"modified_time"	"1374950036"
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1374949844"
+	"modified_admin"	"(Console)"
+}
+"STEAM_0:1:52697383"	
+{
+	"unban"	"0"
+	"time"	"1376960404"
+	"reason"	"Boo you Whore"
+	"admin"	"Vladimir Putin(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:60495365"	
+{
+	"unban"	"0"
+	"time"	"1377563248"
+	"reason"	"rdm bitch"
+	"admin"	"[TRUE-OG]Boris Woody cakes(STEAM_0:0:59871598)"
+}
+"STEAM_0:0:70624793"	
+{
+	"reason"	"FAG"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377909494"
+	"name"	"Sherman"
+}
+"STEAM_0:0:71009251"	
+{
+	"unban"	"0"
+	"time"	"1378330253"
+	"reason"	"rdm and leave"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:0:49710873"	
+{
+	"modified_time"	"1375492134"
+	"reason"	"Dear, male/female i couldnt tell which u were u are being ban for the rdms and i hope that u have a bad day even though its past your bed time"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1375492025"
+	"modified_admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:61781938"	
+{
+	"reason"	"Fuck you"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1376174311"
+	"name"	"just a bear"
+}
+"STEAM_0:0:70622956"	
+{
+	"reason"	"RDM ( WHEN THE OWNER TRIES TO TALK TO YOU RESPOND)"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377297377"
+	"name"	"NPBugati"
+}
+"STEAM_0:0:43714635"	
+{
+	"unban"	"0"
+	"time"	"1375386584"
+	"reason"	"rdm and leave"
+	"admin"	"[Truest-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:43710028"	
+{
+	"unban"	"0"
+	"time"	"1374953520"
+	"reason"	""
+	"admin"	"(Console)"
+}
+"STEAM_0:0:23649420"	
+{
+	"unban"	"0"
+	"time"	"1377047012"
+	"reason"	"attempted rdm and leave"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:52582031"	
+{
+	"unban"	"0"
+	"time"	"1375230403"
+	"reason"	"attempted rdm and leave"
+	"admin"	"[True-OG]Mr.Ghast(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:29874058"	
+{
+	"unban"	"0"
+	"time"	"1381623288"
+	"reason"	"RDM AND LEAVE BIATCH <Ghost3"
+	"admin"	"Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:46783939"	
+{
+	"unban"	"0"
+	"time"	"1381702494"
+	"reason"	"Excessive bitching"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:53514863"	
+{
+	"unban"	"0"
+	"time"	"1379538402"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:47314170"	
+{
+	"reason"	"Im done with you go home"
+	"admin"	"Demopan(STEAM_0:1:59015980)"
+	"unban"	"0"
+	"time"	"1383003124"
+	"name"	"kirby999etc"
+}
+"STEAM_0:1:53348629"	
+{
+	"reason"	"mass rdm fu"
+	"admin"	"Barrymyleghertz☭™(STEAM_0:0:59871598)"
+	"unban"	"0"
+	"time"	"1380407611"
+	"name"	"Anal_Annihilation"
+}
+"STEAM_0:0:66494943"	
+{
+	"unban"	"0"
+	"time"	"1375052066"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:60911568"	
+{
+	"reason"	"ghosting butthole"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1376350875"
+	"name"	"Nuketuberbuddy10"
+}
+"STEAM_0:0:35251284"	
+{
+	"reason"	"mass rdm"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1379876821"
+	"name"	"Tha Speed"
+}
+"STEAM_0:0:68359534"	
+{
+	"unban"	"0"
+	"time"	"1374946846"
+	"reason"	"RDM then leave "
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:61357140"	
+{
+	"unban"	"0"
+	"time"	"1382404461"
+	"reason"	"RDM AND LEAVE BIATCH <Ghost3"
+	"admin"	"Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:33379210"	
+{
+	"reason"	"rdm"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377835169"
+	"name"	"S.W.A.T"
+}
+"STEAM_0:1:47536327"	
+{
+	"reason"	"rdm"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1379204469"
+	"name"	"Fritz Schmit"
+}
+"STEAM_0:1:2733044"	
+{
+	"unban"	"0"
+	"time"	"1377449243"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:60729970"	
+{
+	"unban"	"0"
+	"time"	"1376277489"
+	"reason"	"RDM then leave you turd of a bass"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:40379424"	
+{
+	"reason"	"NO!! SUCK MY DICK"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377292061"
+	"name"	"Castiel"
+}
+"STEAM_0:1:60004695"	
+{
+	"unban"	"0"
+	"time"	"1377224828"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:68203608"	
+{
+	"unban"	"0"
+	"time"	"1377017777"
+	"reason"	"piss off pl0x"
+	"admin"	"[True-OG]Snoop Lion(STEAM_0:1:68929708)"
+}
+"STEAM_0:0:55477671"	
+{
+	"unban"	"0"
+	"time"	"1374935272"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Jamiebane(STEAM_0:0:47261713)"
+}
+"STEAM_0:0:49908011"	
+{
+	"unban"	"0"
+	"time"	"1376852604"
+	"reason"	"rdm and leave"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:59997521"	
+{
+	"unban"	"0"
+	"time"	"1375560115"
+	"reason"	"rdma and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:42355208"	
+{
+	"unban"	"0"
+	"time"	"1376790015"
+	"reason"	"penis(rdm and leave)"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:58596187"	
+{
+	"unban"	"0"
+	"time"	"1379536951"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:67720356"	
+{
+	"reason"	""
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1379190504"
+	"name"	"spooderman"
+}
+"STEAM_0:0:71692549"	
+{
+	"reason"	"rdm"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377236497"
+	"name"	"brendanrr14"
+}
+"STEAM_0:1:55147405"	
+{
+	"modified_time"	"1377028707"
+	"reason"	"RDM and Leave"
+	"admin"	"Harry Potter(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1377028707"
+	"modified_admin"	"Harry Potter(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:60627180"	
+{
+	"unban"	"0"
+	"time"	"1375835461"
+	"reason"	"RDM AND LEAVE"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:1:51651134"	
+{
+	"unban"	"0"
+	"time"	"1375809520"
+	"reason"	"Fuck off"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:69079835"	
+{
+	"reason"	"rdming dumbfuck"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1380396882"
+	"name"	"toxicdemon905"
+}
+"STEAM_0:1:58061649"	
+{
+	"unban"	"0"
+	"time"	"1377028390"
+	"reason"	"Beeing unloyal to the game its hard out here in the streets"
+	"admin"	"[True-OG]Makaveli(STEAM_0:1:68929708)"
+}
+"STEAM_0:0:47618433"	
+{
+	"modified_time"	"1379716794"
+	"reason"	"Guess what, youve been banned. What that means is: I raped your mom, tied up your dad, threw them both into my trunk and drove into the ocean"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+	"unban"	"0"
+	"time"	"1379716766"
+	"modified_admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:50732882"	
+{
+	"unban"	"0"
+	"time"	"1374866701"
+	"reason"	"Try not to fucking RDM the owner on his own server"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:46908666"	
+{
+	"modified_time"	"1380227342"
+	"reason"	"AAAAHUSSY*"
+	"admin"	"Demopan(STEAM_0:1:59015980)"
+	"unban"	"0"
+	"time"	"1380227314"
+	"modified_admin"	"Demopan(STEAM_0:1:59015980)"
+}
+"STEAM_0:1:70984314"	
+{
+	"unban"	"0"
+	"time"	"1380465212"
+	"reason"	"RDM and leave"
+	"admin"	"Demopan(STEAM_0:1:59015980)"
+}
+"STEAM_0:0:43679640"	
+{
+	"unban"	"0"
+	"time"	"1374965682"
+	"reason"	""
+	"admin"	"(Console)"
+}
+"STEAM_0:0:56496404"	
+{
+	"reason"	"I have HUGE BALLS <3 Pestilence"
+	"admin"	"[True-OG] Pestilence(STEAM_0:0:51627154)"
+	"unban"	"0"
+	"time"	"1382322064"
+	"name"	"Dr.Whooves"
+}
+"STEAM_0:1:39754481"	
+{
+	"unban"	"0"
+	"time"	"1378148468"
+	"reason"	"rdm and leave NO ONE LOVES U"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:59686618"	
+{
+	"reason"	"DONT RDM THE OWNER"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1376796542"
+	"name"	"danielpwinnie"
+}
+"STEAM_0:0:7310338"	
+{
+	"unban"	"0"
+	"time"	"1383169631"
+	"reason"	"MOTHER FUCKING CUNT NUGGET MOTHER FUCKING RACIST MOFO"
+	"admin"	"Barrymyleghertz☭☣(STEAM_0:0:59871598)"
+}
+"STEAM_0:1:62645797"	
+{
+	"reason"	"rdming"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1380240191"
+	"name"	"theandroidn"
+}
+"STEAM_0:1:69691392"	
+{
+	"unban"	"0"
+	"time"	"1375563306"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:47220170"	
+{
+	"unban"	"0"
+	"time"	"1378610852"
+	"reason"	"Fuck you you fucker. You annoy us for 2 hours, then have the NERVE TO LEAVE. FUCK. YOU."
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:37326829"	
+{
+	"unban"	"0"
+	"time"	"1379716468"
+	"reason"	"Mass RDM"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:49524603"	
+{
+	"unban"	"0"
+	"time"	"1376525513"
+	"reason"	"naw(rdm)"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:57706095"	
+{
+	"unban"	"0"
+	"time"	"1379286870"
+	"reason"	"rdm and leave, man i haven't banned anyone permanently in a while"
+	"admin"	"[True-OG]Jamiebane(STEAM_0:0:47261713)"
+}
+"STEAM_0:0:54028652"	
+{
+	"unban"	"0"
+	"time"	"1375207140"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:68696170"	
+{
+	"unban"	"0"
+	"time"	"1375123348"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Ender_Dog A.K.A Pac(STEAM_0:1:68929708)"
+}
+"STEAM_0:0:61109544"	
+{
+	"unban"	"0"
+	"time"	"1381801539"
+	"reason"	"rdm and"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:54981256"	
+{
+	"unban"	"0"
+	"time"	"1375741456"
+	"reason"	"Fuck you ass hole"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:55676534"	
+{
+	"unban"	"0"
+	"time"	"1381348115"
+	"reason"	"MOTHER FUCKING CUNT NUGGET MOTHER FUCKING RACIST MOFO"
+	"admin"	"\"Du Hast\"Barrymyleghertz☭(STEAM_0:0:59871598)"
+}
+"STEAM_0:0:59618666"	
+{
+	"unban"	"0"
+	"time"	"1380234193"
+	"reason"	"rdm and leave"
+	"admin"	"Barrymyleghertz☭™(STEAM_0:0:59871598)"
+}
+"STEAM_0:0:17598658"	
+{
+	"unban"	"0"
+	"time"	"1375565952"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:42413793"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1375127018"
+	"name"	"Big Boss"
+}
+"STEAM_0:0:41309928"	
+{
+	"reason"	"impersonating the owner"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1379462045"
+	"name"	"Mitt"
+}
+"STEAM_0:0:42811650"	
+{
+	"unban"	"0"
+	"time"	"1376846662"
+	"reason"	"rdm and leave"
+	"admin"	"три Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:59909910"	
+{
+	"unban"	"0"
+	"time"	"1375390426"
+	"reason"	"u doing the rdms and leaves mang"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:54504162"	
+{
+	"unban"	"0"
+	"time"	"1377233746"
+	"reason"	"RDM and leave"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+}
+"STEAM_0:0:73193686"	
+{
+	"modified_time"	"1380320923"
+	"reason"	"No rdming my watch you fucking milie siris hussy"
+	"admin"	"Demopan(STEAM_0:1:59015980)"
+	"unban"	"0"
+	"time"	"1380320696"
+	"name"	"mattnmax1"
+	"modified_admin"	"Demopan(STEAM_0:1:59015980)"
+}
+"STEAM_0:0:6539568"	
+{
+	"unban"	"0"
+	"time"	"1378528105"
+	"reason"	"rdm and leave"
+	"admin"	"[Spooky-True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:42414326"	
+{
+	"reason"	""
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1375126812"
+	"name"	"Otacon"
+}
+"STEAM_0:0:47062421"	
+{
+	"unban"	"0"
+	"time"	"1375492552"
+	"reason"	"RDM then leave"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:441324"	
+{
+	"reason"	"Disrespect"
+	"admin"	"WPK QUAZAR(STEAM_0:1:55038547)"
+	"unban"	"0"
+	"time"	"1380947450"
+	"name"	"That Piece of Shit muellerdillo"
+}
+"STEAM_0:1:41871435"	
+{
+	"unban"	"0"
+	"time"	"1376432988"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:50735710"	
+{
+	"unban"	"0"
+	"time"	"1375134501"
+	"reason"	"RDM and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:61458267"	
+{
+	"modified_time"	"1379468236"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1379468230"
+	"modified_admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:42969589"	
+{
+	"unban"	"0"
+	"time"	"1375057141"
+	"reason"	"rdm"
+	"admin"	"[True-OG]Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:0:72459831"	
+{
+	"unban"	"0"
+	"time"	"1380158491"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:71012694"	
+{
+	"unban"	"0"
+	"time"	"1380836760"
+	"reason"	"Slut/hussy"
+	"admin"	"Demopan(STEAM_0:1:59015980)"
+}
+"STEAM_0:1:41746650"	
+{
+	"reason"	"nice u just wasted 10 min of ur time just to rdm one person"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+	"unban"	"0"
+	"time"	"1377901650"
+	"name"	"gunnyrittz"
+}
+"STEAM_0:0:44128593"	
+{
+	"unban"	"0"
+	"time"	"1378322996"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:51115871"	
+{
+	"unban"	"0"
+	"time"	"1382750154"
+	"reason"	"RDM AND LEAVE BIATCH <Ghost3"
+	"admin"	"Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:59291199"	
+{
+	"unban"	"0"
+	"time"	"1377298195"
+	"reason"	"Fuck you you fucking fuck of a fuck"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:1:55930791"	
+{
+	"unban"	"0"
+	"time"	"1375740810"
+	"reason"	"NEVER RDM THE HEADCRAB KING BITCHES"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:70956487"	
+{
+	"unban"	"0"
+	"time"	"1378411816"
+	"reason"	"rdm and leave"
+	"admin"	"Three Pedo's(STEAM_0:0:42670833)"
+}
+"STEAM_0:1:56253303"	
+{
+	"reason"	""
+	"admin"	"Tabletop Otaku(STEAM_0:0:15527947)"
+	"unban"	"0"
+	"time"	"1381347705"
+	"name"	"ArrDeeEm"
+}
+"STEAM_0:1:69096808"	
+{
+	"unban"	"0"
+	"time"	"1375407407"
+	"reason"	""
+	"admin"	"[Truest-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:71060520"	
+{
+	"reason"	"RDM"
+	"admin"	"MattTheEmp(STEAM_0:0:49159208)"
+	"unban"	"0"
+	"time"	"1377832984"
+	"name"	"awsomesocksgaming"
+}
+"STEAM_0:1:69515236"	
+{
+	"unban"	"0"
+	"time"	"1375137070"
+	"reason"	"attempted rdm and leave"
+	"admin"	"[True-OG]Mr.Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:43991243"	
+{
+	"unban"	"0"
+	"time"	"1377629813"
+	"reason"	"Fuck you you fucking fuck you're a fuck and your mom got fucked you fuck"
+	"admin"	"Mitt Romney(STEAM_0:1:56065600)"
+}
+"STEAM_0:0:26174821"	
+{
+	"unban"	"0"
+	"time"	"1381723553"
+	"reason"	"You are a fuck. NO ONE KILLS NUNYA FOR NO REASON BUT ME AND CHRIS"
+	"admin"	"BioFrost(STEAM_0:0:57024116)"
+}
+"STEAM_0:0:52640836"	
+{
+	"unban"	"0"
+	"time"	"1382135836"
+	"reason"	"RDMING BIATCH <GHOST3"
+	"admin"	"Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:0:5727790"	
+{
+	"unban"	"0"
+	"time"	"1377133959"
+	"reason"	"rdm and leave"
+	"admin"	"[True-OG]Ghost(STEAM_0:0:64474162)"
+}
+"STEAM_0:1:22840060"	
+{
+	"reason"	"Actin a fool and leavin "
+	"admin"	"[True-OG]Makaveli(STEAM_0:1:68929708)"
+	"unban"	"0"
+	"time"	"1377025343"
+	"name"	"Dr. Gamer"
+}

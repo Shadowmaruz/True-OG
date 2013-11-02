@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja/vaas/mohawk"
+
+
+$translucent 1
+	$nocull 1
+
+}

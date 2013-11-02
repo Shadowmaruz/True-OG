@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\XM8\Assault_Foregrip"
+	"$bumpmap"	"models\weapons\v_models\XM8\Assault_Foregrip_Normal"
+}

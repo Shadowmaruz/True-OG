@@ -1,0 +1,6 @@
+Trouble in Terrorist Town - Round Events Log
+--------------------------------------------------
+ TIME | TYPE                      | WHAT HAPPENED
+--------------------------------------------------
+00:00 | Game                      | The round started
+00:01 | Traitors won              | The dastardly traitors won the round!

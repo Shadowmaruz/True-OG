@@ -1,0 +1,19 @@
+; ATTENTION! /ADDONS/ulx/data/ulx/<this file> is a DEFAULT file. DO NOT EDIT THE /ADDONS/ULX/DATA/ULX FOLDER FILE!!!
+; Instead, edit the version in <garrysmod root>/data/ulx/ if it exists. If it doesn't, copy this file to <gmod root>/data/ulx/ to create it.
+; This file is used to store default reasons for kicking and banning users.
+; These reasons show up in console autocomplete and in XGUI dropdowns.
+Boo you Whore
+Crashed server
+Disobeying the rules
+For not being a yolo swaggins 420 blaze it gangsta G pimp)
+Foul language
+Fuck you you fucking fuck of a fuck
+Griefer
+Having too many dicks in your mouth
+I AM THE OWNER FUCK YOU
+MOTHER FUCKING CUNT NUGGET MOTHER FUCKING RACIST MOFO
+Minge
+RDM
+RDM and Leave
+Spammer
+The owners hate you and I do too

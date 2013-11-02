@@ -1,0 +1,13 @@
+Trouble in Terrorist Town - Round Events Log
+--------------------------------------------------
+ TIME | TYPE                      | WHAT HAPPENED
+--------------------------------------------------
+00:00 | Game                      | The round started
+00:03 | Suicide                   | Proffesor Pants fell to his death
+00:13 | Traitor killed innocent   | Mr.Sir14 was stabbed by RegistryError
+01:12 | Traitor killed innocent   | DaVinci was shot by RegistryError using a AWP
+01:23 | Innocent killed traitor   | RegistryError was shot by PG using a MAC10
+01:31 | Traitor killed innocent   | PG was shot by muellerdillon using a Silenced Crossbow
+01:37 | Traitor killed innocent   | [uA.A] Shadow was shot by muellerdillon using a G3SG1
+01:46 | Suicide                   | Tabletop Otaku fell to his death
+01:47 | Traitors won              | The dastardly traitors won the round!

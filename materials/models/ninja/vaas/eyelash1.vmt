@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja\vaas/Eyelash1"
+
+
+$alphatest 1
+	$nocull 1
+
+}

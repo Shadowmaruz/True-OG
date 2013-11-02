@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja/vaas/facialhair"
+
+
+$translucent 1
+	$nocull 1
+
+}

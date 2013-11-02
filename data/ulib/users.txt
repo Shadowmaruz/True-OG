@@ -1,0 +1,715 @@
+"STEAM_0:1:44731215"	
+{
+	"allow"	
+	{
+	}
+	"name"	"dawson.dewdle"
+	"deny"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:64474162"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Ghost"
+	"deny"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:46559241"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"[PDD]λñdÿ™(λsh Ketchüp)"
+	"group"	"Trusted"
+}
+"STEAM_0:0:43575841"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Ashleighsaurus"
+	"deny"	
+	{
+	}
+	"group"	"Moderator"
+}
+"STEAM_0:1:56065600"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Mitt Romney"
+	"deny"	
+	{
+	}
+	"group"	"Owner"
+}
+"STEAM_0:0:15527947"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Tabletop Otaku"
+	"deny"	
+	{
+	}
+	"group"	"Pre-Admin"
+}
+"STEAM_0:0:62287913"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Theodore Roosevelt"
+	"group"	"Trusted"
+}
+"STEAM_0:1:50045578"	
+{
+	"name"	"[True-OG] Sp1ral"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:1:43107334"	
+{
+	"name"	"Dman"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:69403338"	
+{
+	"name"	"muellerdillon"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:1:41535325"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Bear Grylls"
+	"group"	"Trusted"
+}
+"STEAM_0:0:42670833"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Three Pedo's"
+	"deny"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:0:61252602"	
+{
+	"allow"	
+	{
+	}
+	"name"	"thebamboozler"
+	"deny"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:47261713"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Jamiebane"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:47635141"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[uA.A] Shadow"
+	"deny"	
+	{
+	}
+	"group"	"Developer"
+}
+"STEAM_0:0:38882242"	
+{
+	"allow"	
+	{
+	}
+	"name"	"RegistryError"
+	"deny"	
+	{
+	}
+	"group"	"Pre-Admin"
+}
+"STEAM_0:1:42428186"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[True-OG] Doom"
+	"deny"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:39127687"	
+{
+	"allow"	
+	{
+	}
+	"name"	"tufferdanu"
+	"deny"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:27503435"	
+{
+	"allow"	
+	{
+	}
+	"name"	"PG"
+	"deny"	
+	{
+	}
+	"group"	"Moderator"
+}
+"STEAM_0:0:41009880"	
+{
+	"name"	"Viq"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:57533345"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Its Zach"
+	"group"	"Trusted"
+}
+"STEAM_0:0:54018864"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"morning would"
+	"group"	"Trusted"
+}
+"STEAM_0:1:71652536"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"XTomahawk V"
+	"group"	"Trusted"
+}
+"STEAM_0:1:40423638"	
+{
+	"name"	"Soapysnipes"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:1:68929708"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Ender_Dog"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:45011682"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Death The Kid"
+	"deny"	
+	{
+	}
+	"group"	"Pre-Mod"
+}
+"STEAM_0:1:55266947"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Moabjk"
+	"deny"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:1:65221390"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"[True-OG-Bitch] Weedscam"
+	"group"	"Trusted"
+}
+"STEAM_0:1:59349843"	
+{
+	"name"	"BlackJesus"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:45915047"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"The Dancing Chair from the Deep"
+	"group"	"Trusted"
+}
+"STEAM_0:1:47196828"	
+{
+	"allow"	
+	{
+	}
+	"name"	"WPK L!zZz!e"
+	"deny"	
+	{
+	}
+	"group"	"Moderator"
+}
+"STEAM_0:0:73541573"	
+{
+	"allow"	
+	{
+	}
+	"name"	"kylehobby"
+	"deny"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:66541577"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[True-OG-Bitch] Queen"
+	"deny"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:0:18835633"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Professor Moriarty"
+	"group"	"Donor"
+}
+"STEAM_0:1:55038547"	
+{
+	"allow"	
+	{
+	}
+	"name"	"WPK QUAZAR"
+	"deny"	
+	{
+	}
+	"group"	"Pre-Admin"
+}
+"STEAM_0:0:45609188"	
+{
+	"name"	"Firebomb"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:71329316"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[True-OG] KeenTGZ"
+	"deny"	
+	{
+	}
+	"group"	"Moderator"
+}
+"STEAM_0:0:49159208"	
+{
+	"allow"	
+	{
+	}
+	"name"	"MattTheEmp"
+	"deny"	
+	{
+	}
+	"group"	"Owner"
+}
+"STEAM_0:0:41808086"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"YourFace1337"
+	"group"	"Trusted"
+}
+"STEAM_0:1:61881833"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"[True-OG] Cr4zyElement"
+	"group"	"Trusted"
+}
+"STEAM_0:0:51627154"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[True-OG] Pestilence"
+	"deny"	
+	{
+	}
+	"group"	"Pre-Admin"
+}
+"STEAM_0:0:29169266"	
+{
+	"allow"	
+	{
+	}
+	"name"	"|Ck| Inc. Picmin"
+	"deny"	
+	{
+	}
+	"group"	"Moderator"
+}
+"STEAM_0:0:59871598"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Barrymyleghertz☭☣"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:48703747"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Croacaine The Drug Frog"
+	"deny"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:62887327"	
+{
+	"allow"	
+	{
+	}
+	"name"	"MexicanJesus"
+	"deny"	
+	{
+	}
+	"group"	"Moderator"
+}
+"STEAM_0:0:1031284"	
+{
+	"name"	"Shinru"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:1:49576188"	
+{
+	"name"	"BigDaddyDee"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:54888608"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Cameronom"
+	"deny"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:1:57347319"	
+{
+	"name"	"xJ_Martt17"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:44869936"	
+{
+	"allow"	
+	{
+	}
+	"name"	"thejraff"
+	"deny"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:1:59015980"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Demopan"
+	"deny"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:23088438"	
+{
+	"allow"	
+	{
+	}
+	"name"	"√Argosto"
+	"deny"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:55534094"	
+{
+	"name"	"DWLFan007"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:57024116"	
+{
+	"allow"	
+	{
+	}
+	"name"	"BioFrost"
+	"deny"	
+	{
+	}
+	"group"	"Pre-Admin"
+}
+"STEAM_0:0:50283544"	
+{
+	"allow"	
+	{
+	}
+	"name"	"cingchris"
+	"deny"	
+	{
+	}
+	"group"	"Moderator"
+}
+"STEAM_0:0:21802142"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Senior Shotgun"
+	"group"	"Trusted"
+}
+"STEAM_0:0:67926444"	
+{
+	"allow"	
+	{
+	}
+	"name"	"McSkittles"
+	"deny"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:49784621"	
+{
+	"name"	"Punkface2000"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:48521235"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[True-OG]Nunya Bisness"
+	"deny"	
+	{
+	}
+	"group"	"Pre-Admin"
+}
+"STEAM_0:0:65399418"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Hamy"
+	"group"	"Donor"
+}
+"STEAM_0:0:28532571"	
+{
+	"name"	"Venom"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:1:68576923"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[True-OG] tunda99"
+	"deny"	
+	{
+	}
+	"group"	"Pre-Admin"
+}
+"STEAM_0:1:49735831"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"[True-OG]RogueTGZ"
+	"group"	"Trusted"
+}
+"STEAM_0:1:71771003"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Kim Jong Un"
+	"deny"	
+	{
+	}
+	"group"	"Trusted"
+}
+"STEAM_0:0:38992600"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Beta Havoc"
+	"group"	"Trusted"
+}

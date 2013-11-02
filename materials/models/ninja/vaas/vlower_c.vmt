@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models\ninja\vaas\VLower_C"
+"$bumpmap" "models\ninja\vaas\VLower_n"
+
+"$phong" "1"
+"$phongboost" "0.8"		
+"$phongfresnelranges"	"[0.04 0.10 0.10]"
+"$phongexponent" "6"
+"$phongalbedotint" "1"
+//"$halflambert" "1"
+//"$selfillum" "1"
+//"$selfillumtint" [0 0 0]" //"[1 0.9 0.55]"
+
+"$rimlight" "1"									
+"$rimlightexponent" "12"								
+"$rimlightboost" "0.3"
+	"$detail" "models\ninja/vaas\tex_0018_5"
+	"$detailscale" 20.283
+	"$detailblendfactor" .65
+	"$detailblendmode" 0
+}
+

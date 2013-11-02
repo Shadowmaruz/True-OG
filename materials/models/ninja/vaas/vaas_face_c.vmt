@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja/vaas\Vaas_Face_C"
+                "$bumpmap"    "models\ninja/vaas\Vaas_Face_N"
+	"$phong" "1"
+//	"$phongexponenttexture" "models\ninja/blackops/woods/c_usa_marine_barnes_head_s"
+	"$phongexponent" "5"
+	"$phongboost"	".45"
+	"$phongfresnelranges"	"[.3 1 48]"
+$detail "models\ninja/vaas/DETAIL"
+$detailscale 16
+$detailblendfactor 1.7
+$detailblendmode 0
+}
